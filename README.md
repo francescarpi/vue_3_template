@@ -23,11 +23,16 @@ npm install
 npm run dev
 ```
 
+## Editor
+
+Recommended extensions for `vscode`:
+
+- (Install): Volar
+- (Install): Prettier
+- (Uninstall): Vetur
+
 ## TODO:
 
 - Add dockerfile
-- Add documentation about vscode extensions. For instance, uninstall vetur, and install volar and prettier.
 - Configure some date library
-- Configure vue-formulate
 - Add tests
-- Configure github actions
