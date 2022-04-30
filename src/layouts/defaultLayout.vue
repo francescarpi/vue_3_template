@@ -12,3 +12,9 @@
     <router-view></router-view>
   </div>
 </template>
+
+<style>
+.router-link-active {
+  @apply underline;
+}
+</style>
