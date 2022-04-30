@@ -26,6 +26,5 @@ npm run dev
 
 - Add dockerfile
 - Add documentation about vscode extensions. For instance, uninstall vetur, and install volar and prettier.
-- Configure vue-router
 - Configure some date library
 - Configure vue-formulate
