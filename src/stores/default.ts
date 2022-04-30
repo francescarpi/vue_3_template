@@ -20,6 +20,10 @@ export const useDefaultStore = defineStore('default', {
         {
           name: 'Pinia',
           id: 'pinia'
+        },
+        {
+          name: 'VueRouter',
+          id: 'vue-router'
         }
       ]
     } as RootState)

@@ -7,6 +7,7 @@ Packages included:
 - Vue3
 - Tailwind
 - Pinia
+- VueRouter
 
 ## Usage
 
