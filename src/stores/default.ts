@@ -10,10 +10,6 @@ export const useDefaultStore = defineStore('default', {
     ({
       packages: [
         {
-          name: 'Vue 3',
-          id: 'vue3'
-        },
-        {
           name: 'Tailwind',
           id: 'tailwind'
         },
@@ -24,6 +20,10 @@ export const useDefaultStore = defineStore('default', {
         {
           name: 'VueRouter',
           id: 'vue-router'
+        },
+        {
+          name: 'FormKit',
+          id: 'form-kit'
         }
       ]
     } as RootState)

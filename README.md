@@ -4,10 +4,10 @@ This is a template to help get you started developing with Vue3, TypeScript and 
 
 Packages included:
 
-- Vue3
 - Tailwind
 - Pinia
 - VueRouter
+- FormKit
 
 ## Usage
 
@@ -29,3 +29,5 @@ npm run dev
 - Add documentation about vscode extensions. For instance, uninstall vetur, and install volar and prettier.
 - Configure some date library
 - Configure vue-formulate
+- Add tests
+- Configure github actions
