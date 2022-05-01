@@ -31,9 +31,25 @@ Recommended extensions for `vscode`:
 - (Install): Prettier
 - (Uninstall): Vetur
 
+## Docker
+
+### Build image
+
+```
+docker build -t vue3pof:latest .
+```
+
+### Run container
+
+```
+docker run -p 8080:80 vue3pof:latest
+
+```
+
 ## TODO:
 
 - Add dockerfile
-- Configure some date library
-- Check emits
+- Add library to work with "dates"
+- Add example of emits
 - Check Life cycles
+- Add interesting links into readme
