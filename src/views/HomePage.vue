@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useDefaultStore } from '../stores/default'
 import { storeToRefs } from 'pinia'
-import BigTitle from '../components/atoms/bigTitle.vue'
+import BigTitle from '../components/atoms/BigTitle/BigTitle.vue'
 const store = useDefaultStore()
 const { packages } = storeToRefs(store)
 </script>
