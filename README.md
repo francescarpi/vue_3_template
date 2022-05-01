@@ -35,6 +35,5 @@ Recommended extensions for `vscode`:
 
 - Add dockerfile
 - Configure some date library
-- Test environment variables
 - Check emits
 - Check Life cycles
