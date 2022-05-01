@@ -1,8 +1,8 @@
-# Vue 3 Template
+# Vue 3 POF
 
-This is a template to help get you started developing with Vue3, TypeScript and other packages, using Vite.
+This is proof of concept project, which tests some features of Vue3 and other modules, such as tailwind, pinia and so on.
 
-Packages included:
+Modules included:
 
 - Tailwind
 - Pinia
@@ -35,4 +35,6 @@ Recommended extensions for `vscode`:
 
 - Add dockerfile
 - Configure some date library
-- Add tests
+- Test environment variables
+- Check emits
+- Check Life cycles

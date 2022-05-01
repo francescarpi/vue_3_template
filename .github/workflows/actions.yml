@@ -1,7 +1,7 @@
-name: Vue3 Template
+name: Vue3 POF
 on: [push]
 jobs:
-  linter:
+  lint_test:
     runs-on: self-hosted
     steps:
       - uses: actions/checkout@v3
@@ -11,3 +11,4 @@ jobs:
           cache: 'npm'
       - run: npm install
       - run: npm run lint
+      - run: npm run test

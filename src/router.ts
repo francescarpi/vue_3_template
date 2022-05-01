@@ -1,17 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import homePage from './views/homePage.vue'
-import formPage from './views/formPage.vue'
+import HomePage from './views/HomePage.vue'
+import FormPage from './views/FormPage.vue'
 
 const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
       path: '',
-      component: homePage
+      component: HomePage
     },
     {
       path: '/form',
-      component: formPage
+      component: FormPage
     }
   ]
 })
