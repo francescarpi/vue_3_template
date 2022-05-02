@@ -49,5 +49,4 @@ docker run -p 8080:80 vue3pof:latest
 ## TODO:
 
 - Add library to work with "dates"
-- Add example of emits
 - Add interesting links into readme
