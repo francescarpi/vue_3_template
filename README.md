@@ -36,13 +36,13 @@ Recommended extensions for `vscode`:
 ### Build image
 
 ```
-docker build -t vue3pof:latest .
+docker build -t demo .
 ```
 
 ### Run container
 
 ```
-docker run -p 8080:80 vue3pof:latest
+docker run -p 8080:80 demo
 
 ```
 
